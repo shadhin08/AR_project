@@ -1,0 +1,33 @@
+.categorie_head
+{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+.categorie_name
+{
+    text-align: center;
+    border: 1px solid rgba(128, 128, 128, 0.37);
+    border-radius: 5px;
+    padding: 5px 0px;
+    background-color: rgba(128, 128, 128, 0.068);
+    box-shadow: 2px 2px 5px rgba(128, 128, 128, 0.473);
+    color: black;
+    font-size: 25px;
+}
+.categorie a
+{
+    text-decoration: none;
+}
+.categorie_ref
+{
+    margin-top: 90px;
+}
+.categorie
+{
+    text-align: center;
+}
+.categorie button
+{
+    width: 300px;
+    margin: 10px 0;
+}
